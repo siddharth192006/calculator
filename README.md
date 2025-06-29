@@ -1,6 +1,6 @@
 # Advanced Calculator Web Application
 
-![Calculator Preview](https://i.imgur.com/JK9yZ8X.png)
+![Calculator Preview](https://github.com/siddharth192006/calculator/blob/b68492d722ea8ad9147c2c45775f1ca6021bd988/demo.png)
 
 A feature-rich, responsive calculator web application with modern UI design and advanced functionality.
 
