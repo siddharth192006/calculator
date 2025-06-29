@@ -34,8 +34,4 @@ To run locally:
    ```bash
    git clone https://github.com/siddharth192006/calculator.git
    calculator/
-├── index.html         # Main HTML file
-├── styles.css         # CSS styles
-├── script.js          # JavaScript functionality
-├── README.md          # This documentation
-└── assets/            # Additional assets (if any)
+
